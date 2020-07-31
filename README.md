@@ -6,8 +6,8 @@ Ollie is a demo software tool to detect eye diseases accurately and efficiently 
 The diagnose is based on a pre-trained deep learning model with >90% accuracy. 
 
 <p align="center">
-  <img src="Pictures/DLmodel.png" width="350" >
-  <img src="Pictures/Screenshot.jpg" width="350" alt="accessibility text">
+  <img src="Pictures/DLmodel.png" width="450" >
+  <img src="Pictures/Screenshot.jpg" width="450" alt="accessibility text">
 </p>
 
 
