@@ -11,7 +11,7 @@ The diagnose is based on a pre-trained deep learning model with >90% accuracy.
 
 
 <p align="center">
-  <img src="Pictures/Screenshot.jpg" width="500" alt="accessibility text">
+  <img src="Pictures/Screenshot.jpg" width="600" alt="accessibility text">
 </p>
 
 ## Reference
