@@ -4,7 +4,7 @@
 Ollie is a software tool to detect eye diseases accurately and efficiently using deep learning models
 
 ##
-![Alt text](relative/Pictures/DLmodel.png)
+![Alt text](Pictures/DLmodel.png)
 ##
 
 ## Reference
